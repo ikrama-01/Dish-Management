@@ -8,8 +8,7 @@ Frontend & backend Setup and Run
 cd dish-management-frontend
 npm install
 npm start 
-cd ../
-dish-management-backend
+cd ../dish-management-backend
 npm install
 npm start
 ```
